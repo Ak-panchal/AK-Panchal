@@ -1,7 +1,11 @@
 ### Hi there 👋, my name is ***Anjani Kumar Panchal***
 #### I am full stack developer ,Android Developer, Opensource Contributor, Blogger, Influencer
 ![I am full stack developer ,Android Developer, Opensource Contributor, Blogger, Influencer]
-(https://github.com/Ak-panchal/AK-Panchal/blob/main/COME.gif)
+<div align="center" width="50">
+
+<img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/COME.gif" alt="Welcome!" width="300"/>
+
+</div>
 
 
 Skills: Flutter / REACT / JS / HTML / CSS/C/C++/DOCKER/Kotlin
