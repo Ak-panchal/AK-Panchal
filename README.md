@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, my name is ***Anjani Kumar Panchal***
+#### I am full stack developer ,Android Developer, Opensource Contributor, Blogger, Influencer
+![I am full stack developer ,Android Developer, Opensource Contributor, Blogger, Influencer]
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Ak-panchal/AK-Panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: Flutter / REACT / JS / HTML / CSS/C/C++/DOCKER/Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Campus Project 
+- 🌱 I’m currently learning React and UI-UX 
+- 👯 I’m looking to collaborate on flutter project 
+- 💬 Ask me about Flutter,Kotlin,HTML, CSS and Angular  
+- ⚡ Fun fact: I am a big foodie😋 and lazy 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ak-panchal)  
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ak-panchal&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ak-panchal)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ak-panchal)  
+
+![Profile views](https://gpvc.arturio.dev/Ak-panchal)  
