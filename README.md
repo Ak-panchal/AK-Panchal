@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/COME.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/COME.gif" alt="Welcome!" />
 
 </div>
 
