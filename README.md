@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-<img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/jump.gif" alt="Welcome!" />
+<img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif" alt="Welcome!" />
 
 </div>
 
