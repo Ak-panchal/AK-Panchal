@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 <img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/jump.gif" alt="Welcome!" />
 
