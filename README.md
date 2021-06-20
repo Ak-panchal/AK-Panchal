@@ -1,3 +1,5 @@
+
+![Profile views](https://gpvc.arturio.dev/Ak-panchal) 
 ### Hi there 👋, my name is ***Anjani Kumar Panchal***
 #### I am full stack developer ,Android Developer, Opensource Contributor, Blogger, Influencer
 
@@ -25,6 +27,4 @@ Skills: Flutter / REACT / JS / HTML / CSS/C/C++/DOCKER/Kotlin
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ak-panchal)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ak-panchal)  
-
-![Profile views](https://gpvc.arturio.dev/Ak-panchal)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ak-panchal)   
