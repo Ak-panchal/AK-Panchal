@@ -28,3 +28,9 @@ Skills: Flutter / REACT / JS / HTML / CSS/C/C++/DOCKER/Kotlin
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ak-panchal)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ak-panchal)   
+
+<div align="center">
+
+<img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/thank.gif" alt="thank!" />
+
+</div>
