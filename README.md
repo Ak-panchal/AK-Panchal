@@ -1,3 +1,8 @@
+<div align="left">
+
+<img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/fly.gif" alt="Welcome!" />
+
+</div>
 
 ![Profile views](https://gpvc.arturio.dev/Ak-panchal) 
 ### Hi there 👋, my name is ***Anjani Kumar Panchal***
