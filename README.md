@@ -46,8 +46,8 @@ Skills: Flutter / REACT / JS / HTML / CSS/C/C++/DOCKER/Kotlin
 
 </div>
 
-<div align="left">
+<div align="center">
 
-<img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/dog.gif";"https://github.com/Ak-panchal/AK-Panchal/blob/main/thank.gif"/>
-  
-</div>
+<img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/COME%20(1).gif" alt="come" />
+
+</div
