@@ -1,10 +1,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/Ak-panchal) 
-<div align="left">
 
-<img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif" alt="Welcome!" />
-
-</div>
+<a href="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif" alt="Welcome!" />
+<img align="left" />
+</a>
 
 <div align="right">
 
@@ -49,3 +48,12 @@ Skills: Flutter / REACT / JS / HTML / CSS/C/C++/DOCKER/Kotlin
 <img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/COME%20(1).gif" alt="come" />
 
 </div
+  
+  
+  
+  
+  
+  
+  
+  
+  
