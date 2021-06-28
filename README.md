@@ -4,10 +4,12 @@
 
 <img align="left" alt="welcome" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif"/>
 <img align="right" alt="black" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/black.gif"/>
-<br/>
 
+<div align="left">
+![Profile views](https://gpvc.arturio.dev/Ak-panchal)
+</div>
 
-### Hi there 👋, my name is ***Anjani Kumar Panchal***
+# Hi there 👋, my name is ***Anjani Kumar Panchal***
 #### I am full stack developer ,Android Developer, Opensource Contributor, Blogger, Influencer
 
 <div align="center">
