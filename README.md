@@ -2,16 +2,9 @@
 ![Profile views](https://gpvc.arturio.dev/Ak-panchal) 
 
 
-<img align="right" alt="welcome" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif"/>
+<img align="left" alt="welcome" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif"/>
+<img align="right" alt="black" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/black.gif"/>
 
-<a href="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif" alt="Welcome!" />
-<img align="left" />
-</a>
-
-<div align="right">
-
-<img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/black.gif" alt="Welcome!" />
-</div>
 
 <div align="left">
 ![Profile views](https://gpvc.arturio.dev/Ak-panchal) 
