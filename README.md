@@ -1,6 +1,7 @@
 
+<div align="center">
 ![Profile views](https://gpvc.arturio.dev/Ak-panchal) 
-
+</div>
 
 <img align="left" alt="welcome" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif"/>
 <img align="right" alt="black" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/black.gif"/>
