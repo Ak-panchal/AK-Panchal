@@ -2,16 +2,6 @@
 <img align="left" alt="welcome" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif"/>
 <img align="right" alt="black" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/black.gif"/>
 
-
-
-<main class="container">
-  <h2 data-splitting class="headline headline--hide">Anjani Kumar Panchal</h2>
-  <h2 data-splitting class="headline headline--retreat">retreating</h2>
-  <h2 data-splitting class="headline headline--break">breaking</h2>
-  <h2 data-splitting class="headline headline--sway">swaying</h2>
-  <h2 data-splitting class="headline headline--blink">blinking</h2>
-  <h2 data-splitting class="headline headline--tumble">tumbling</h2>
-</main>
 # Hi there 👋, my name is ***Anjani Kumar Panchal***
 #### I am full stack developer ,Android Developer, Opensource Contributor, Blogger, Influencer
 
