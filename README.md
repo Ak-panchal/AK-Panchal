@@ -3,7 +3,6 @@
 <img align="left" alt="welcome" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif"/>
 <img align="center" alt="black" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/black.gif"/>
 <img align="right" alt="hii" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hii.gif"/> 
-</br>
 
 # Hi there 👋, my name is ***Anjani Kumar Panchal***
 #### I am full stack developer ,Android Developer, Opensource Contributor, Blogger, Influencer
