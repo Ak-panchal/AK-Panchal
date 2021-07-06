@@ -30,17 +30,13 @@ Skills: Flutter / REACT / JS / HTML / CSS/C/C++/DOCKER/Kotlin
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ak-panchal&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ak-panchal) 
  
-
+<img align="right" alt="hii" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hii.gif"/> 
 
 <div align="center">
 
 <img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/COME%20(1).gif" alt="come" />
 
-</div
-  
-  
-  
-  
+</div>
   
   
   
