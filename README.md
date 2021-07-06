@@ -1,8 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/Ak-panchal) 
 
 <img align="left" alt="welcome" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif"/>
-<img align="center" alt="hii" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hii.gif"/> 
 <img align="right" alt="black" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/black.gif"/>
+<img align="center" alt="hii" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hii.gif"/> 
 </br>
 
 # Hi there 👋, my name is ***Anjani Kumar Panchal***
