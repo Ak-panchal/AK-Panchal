@@ -3,11 +3,12 @@
 <img align="left" alt="welcome" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif"/>
 <img align="right" alt="hii" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hii.gif"/> 
 <img align="right" alt="black" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/black.gif"/>
-</br>
 
-
-<p>Anjani Kumar Panchal</p>
-#### I am full stack developer ,Android Developer, Opensource Contributor, Blogger, Influencer
+<p align="center"><samp><b> Hey there! <img src="https://github.com/Ak-panchal/AK-Panchal/blob/main/heyyy.gif" width="25px"> </b></samp></p>
+<p align="center"><h1 align="center"><samp> I am Anjani Kumar Panchal </samp></h1></p>
+<p align="center"><h4 align="center"><samp> Cloud Enthusiast || Web Developer ||Android Developer || Open Source contributor </samp></h4></p>
+<br>
+<div>
 
 <div align="center">
 
