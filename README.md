@@ -8,7 +8,7 @@
 ###
 
 
-<img align="center" alt="black" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/heyyy.gif" width="25px"/>
+<img align="center" alt="black" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/heyyy.gif"/>
 <p align="center"><h1 align="center"><samp> I am Anjani Kumar Panchal </samp></h1></p>
 <p align="center"><h4 align="center"><samp> Cloud Enthusiast || Web Developer ||Android Developer || Open Source contributor </samp></h4></p>
 <br>
