@@ -2,7 +2,6 @@
 
 <img align="left" alt="welcome" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hylo.gif"/>
 <img align="right" alt="hii" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/hii.gif"/> 
-<img align="center" alt="black" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/black.gif"/>
 </br>
 
 ###
