@@ -7,8 +7,10 @@
 
 ###
 
-
+<div align="center">
 <img align="center" alt="heyy" src="https://github.com/Ak-panchal/AK-Panchal/blob/main/heyyy.gif"/>
+</div>
+
 <p align="center"><h1 align="center"><samp> I am Anjani Kumar Panchal </samp></h1></p>
 <p align="center"><h4 align="center"><samp> Cloud Enthusiast || Web Developer ||Android Developer || Open Source contributor </samp></h4></p>
 <br>
