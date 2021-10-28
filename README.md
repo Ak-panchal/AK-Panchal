@@ -14,7 +14,7 @@
 <br>
 
 ##
-
+<a href="https://app.daily.dev/Aviral_tech"><img src="https://api.daily.dev/devcards/ebd670c628314baab3b345b01fc8e82a.png?r=y1k" width="400" alt="ANJANI KUMAR's Dev Card"/></a>
 
 <div align="center">
 
